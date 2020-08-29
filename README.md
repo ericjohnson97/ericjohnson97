@@ -50,7 +50,7 @@ Texas Aerial Robotics Drone's are based on open source  hardware and software. T
 [3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[6.1]: assets/github.svg (github icon with padding)
+[6.1]: https://github.com/ericjohnson97/ericjohnson97/blob/master/assets/github.svg (github icon with padding)
 [7.1]: https://github.com/ericjohnson97/ericjohnson97/blob/master/assets/youtube.svg (youtube icon)
 [8.1]: https://github.com/ericjohnson97/ericjohnson97/blob/master/assets/github.svg (github icon with padding)
 <!-- icons without padding -->
