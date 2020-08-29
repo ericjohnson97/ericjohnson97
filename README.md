@@ -19,7 +19,7 @@ Intelligent Quads is a community focused on helping people become developers of 
 
 ## Checkout Texas Aerial Robotics
 
-![tar](ericjohnson97/assets/tar.JPG)
+![tar](https://github.com/ericjohnson97/ericjohnson97/blob/master/assets/tar.JPG)
 
 Texas Aerial Robotics Drone's are based on open source  hardware and software. Their architecture is based around the following software stacks.
 
