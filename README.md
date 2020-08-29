@@ -10,7 +10,7 @@
 
 ## Checkout Intelligent Quads
 
-![iq](assets/iq.JPG)
+![iq](ericjohnson97/assets/iq.JPG)
 
 Intelligent Quads is a community focused on helping people become developers of intelligent drone applications. The Intelligent Quads Youtube channel hosts video tutorials on many building blocks of different drone applications. The Youtube channel is complimented by the Intelligent Quads Github, which hosts example code in the [iq_gnc](https://github.com/Intelligent-Quads/iq_gnc) repo for creating autonomous drone applications. This code is built on top of MAVROS, Ardupilot and ROS. The [iq_sim](https://github.com/Intelligent-Quads/iq_sim) repo hosts gazebo worlds to help test autonomous drone applications. These repos are complimented by the [iq_tutorials](https://github.com/Intelligent-Quads/iq_tutorials), which are text follow alongs for the youtube videos. 
 
@@ -19,7 +19,7 @@ Intelligent Quads is a community focused on helping people become developers of 
 
 ## Checkout Texas Aerial Robotics
 
-![tar](assets/tar.JPG)
+![tar](ericjohnson97/assets/tar.JPG)
 
 Texas Aerial Robotics Drone's are based on open source  hardware and software. Their architecture is based around the following software stacks.
 
@@ -51,8 +51,8 @@ Texas Aerial Robotics Drone's are based on open source  hardware and software. T
 [4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
 [5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
 [6.1]: assets/github.svg (github icon with padding)
-[7.1]: assets/youtube.svg (youtube icon)
-[8.1]: assets/github.svg (github icon with padding)
+[7.1]: ericjohnson97/assets/youtube.svg (youtube icon)
+[8.1]: ericjohnson97/assets/github.svg (github icon with padding)
 <!-- icons without padding -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
