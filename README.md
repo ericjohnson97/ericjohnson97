@@ -28,7 +28,7 @@ Texas Aerial Robotics Drone's are based on open source  hardware and software. T
 - MAVROS - opens source ROS wrapper for MAVlink
 - more...
 
-[![alt text][8.1]][7]
+[![alt text][8.1]][8]
 
 ---
 ## Socials 
