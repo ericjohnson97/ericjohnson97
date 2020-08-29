@@ -2,25 +2,24 @@
 
 ## Bio 
 
- I am recent aerospace engineering graduate focused on GNC and robotics. My passion is centered around small UAS and autonomous flight. I am excited about the new found capabilities this technology will bring and the impact it will have in helping elevate the world's standard of living.  
+ I am recent aerospace engineering graduate focused on GNC and robotics. My passion is centered around small UAS and autonomous flight. I am excited about the new found capabilities UAS technology will bring and the impact it will have in helping elevate the world's standard of living.  
 
- At the beginning of 2017 I helped found the student group Texas Aerial Robotics at the University of Texas at Austin. This group is dedicated to competing in the International Aerial Robotics Competition.  The team researches fields such as computer vision, parallel computing, computational modeling, AI, guidance, navigation and control as is applied to drones.
+ At the beginning of 2017 I helped found the student group, Texas Aerial Robotics at the University of Texas at Austin. This group is dedicated to competing in the International Aerial Robotics Competition.  The team researches fields such as computer vision, parallel computing, computational modeling, AI, guidance, navigation and control as is applied to drones.
 
- My main side project at the moment is my youtube channel/Github Intelligent Quads.  This channel is focused on making educational drone content primarily focused on open source software development for drones. The content is derived from the lessons and skills I helped develop at Texas Aerial Robotics.  
+ My main side project at the moment is my youtube channel/Github, Intelligent Quads. Intelligent Quads is a community dedicated to helping people become developers of autonomous drone applications. My youtube channel primarily creates tutorials over ardupilot, mavros, yolo and other open source software useful for drone applications.
 
 ## Checkout Intelligent Quads
 
-Intelligent Quads is community dedicated to helping people become developers of autonomous drone applications. My youtube channel primarily creates tutorials over ardupilot, mavros, yolo and other open source software useful for drone applications.
+![iq](assets/iq.JPG)
 
+Intelligent Quads is a community focused on helping people become developers of intelligent drone applications. The Intelligent Quads Youtube channel hosts video tutorials on many building blocks of different drone applications. The Youtube channel is complimented by the Intelligent Quads Github, which hosts example code in the [iq_gnc](https://github.com/Intelligent-Quads/iq_gnc) repo for creating autonomous drone applications. This code is built on top of MAVROS, Ardupilot and ROS. The [iq_sim](https://github.com/Intelligent-Quads/iq_sim) repo hosts gazebo worlds to help test autonomous drone applications. These repos are complimented by the [iq_tutorials](https://github.com/Intelligent-Quads/iq_tutorials), which are text follow alongs for the youtube videos. 
 
-<a href="https://github.com/Intelligent-Quads/iq_tutorials" >![Intelligent Quads](imgs/gihub.png)</a>
-
-
-[<img src="imgs/gihub.png">](https://github.com/Intelligent-Quads/iq_tutorials)
-
-[![Foo](imgs/gihub.png)](https://github.com/Intelligent-Quads/iq_tutorials)
+[![alt text][6.1]][6]
+[![alt text][7.1]][7]
 
 ## Checkout Texas Aerial Robotics
+
+![tar](assets/tar.JPG)
 
 Texas Aerial Robotics Drone's are based on open source  hardware and software. Their architecture is based around the following software stacks.
 
@@ -29,6 +28,53 @@ Texas Aerial Robotics Drone's are based on open source  hardware and software. T
 - MAVROS - opens source ROS wrapper for MAVlink
 - more...
 
+[![alt text][8.1]][7]
+
+---
+## Socials 
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
+
+<!-- display the social media buttons in your README -->
+
+[![alt text][6.1]][6]
+[![alt text][7.1]][7]
+
+
+<!-- links to social media icons -->
+<!-- no need to change these -->
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+[6.1]: assets/github.svg (github icon with padding)
+[7.1]: assets/youtube.svg (youtube icon)
+[8.1]: assets/github.svg (github icon with padding)
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
+[3.2]: http://i.imgur.com/VlgBKQ9.png (google plus icon without padding)
+[4.2]: http://i.imgur.com/jDRp47c.png (tumblr icon without padding)
+[5.2]: http://i.imgur.com/Vvy3Kru.png (dribbble icon without padding)
+[6.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+
+
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.twitter.com/carlsednaoui
+[2]: http://www.facebook.com/sednaoui
+[3]: https://plus.google.com/+CarlSednaoui
+[4]: http://carlsed.tumblr.com
+[5]: http://dribbble.com/carlsednaoui
+[6]: https://github.com/Intelligent-Quads/iq_tutorials
+[7]: https://www.youtube.com/channel/UCuZy0c-uvSJglnZfQC0-uaQ
+[8]: https://github.com/Texas-Aerial-Robotics
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 
 
