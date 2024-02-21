@@ -2,7 +2,7 @@
 
 ## Bio 
 
- I am young professional aerospace engineer. My career has lead me to work on multiple unmanned aerial system (UAS) projects which I have a strong passion for. I am excited about the new found capabilities of UAS technology and the impact it will have in helping elevate the world.  
+ I am a young professional aerospace engineer. My career has lead me to work on multiple unmanned aerial system (UAS) projects which I have a strong passion for. I am excited about the new found capabilities of UAS technology and the impact it will have in helping elevate the world.  
 
 My main side project at the moment is my youtube channel/Github, Intelligent Quads. Intelligent Quads is a community dedicated to helping people become developers of autonomous drone applications. My youtube channel primarily creates tutorials over ardupilot, mavros, yolo and other open source software useful for drone applications.
 
