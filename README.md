@@ -2,24 +2,22 @@
 
 ## Bio 
 
- I am recent aerospace engineering graduate focused on GNC and robotics. My passion is centered around small UAS and autonomous flight. I am excited about the new found capabilities UAS technology will bring and the impact it will have in helping elevate the world's standard of living.  
-
- At the beginning of 2017 I helped found the student group, Texas Aerial Robotics at the University of Texas at Austin. This group is dedicated to competing in the International Aerial Robotics Competition.  The team researches fields such as computer vision, parallel computing, computational modeling, AI, guidance, navigation and control as is applied to drones.
+ I am recent aerospace engineering graduate focused on GNC and robotics. My passion is centered around small UAS and autonomous flight. I am excited about the new found capabilities UAS technology will bring and the impact it will have in helping elevate the world.  
 
  My main side project at the moment is my youtube channel/Github, Intelligent Quads. Intelligent Quads is a community dedicated to helping people become developers of autonomous drone applications. My youtube channel primarily creates tutorials over ardupilot, mavros, yolo and other open source software useful for drone applications.
 
 ## Checkout Intelligent Quads
 
-![iq](https://github.com/ericjohnson97/ericjohnson97/blob/master/assets/iq.JPG)
-
 Intelligent Quads is a community focused on helping people become developers of intelligent drone applications. The Intelligent Quads Youtube channel hosts video tutorials on many building blocks of different drone applications. The Youtube channel is complimented by the Intelligent Quads Github, which hosts example code in the [iq_gnc](https://github.com/Intelligent-Quads/iq_gnc) repo for creating autonomous drone applications. This code is built on top of MAVROS, Ardupilot and ROS. The [iq_sim](https://github.com/Intelligent-Quads/iq_sim) repo hosts gazebo worlds to help test autonomous drone applications. These repos are complimented by the [iq_tutorials](https://github.com/Intelligent-Quads/iq_tutorials), which are text follow alongs for the youtube videos. 
+
+Also a take a look at the intelligent [quads online simulator](https://intelligentquads.com/). The intelligent quads online simulator helps create basic px4 and ardupilot simulations so that you can get started with you drone application quickly. 
 
 [![alt text][6.1]][6]
 [![alt text][7.1]][7]
 
 ## Checkout Texas Aerial Robotics
 
-![tar](https://github.com/ericjohnson97/ericjohnson97/blob/master/assets/tar.JPG)
+At the beginning of 2017 I helped found the student group, Texas Aerial Robotics at the University of Texas at Austin. This group is dedicated to competing in the International Aerial Robotics Competition.  The team researches fields such as computer vision, parallel computing, computational modeling, AI, guidance, navigation and control as is applied to drones.
 
 Texas Aerial Robotics Drone's are based on open source  hardware and software. Their architecture is based around the following software stacks.
 
